@@ -33,3 +33,8 @@ bower.json
 # mac related files
 .idea
 
+# sunspot:solr related files
+solr/development
+solr/test
+solr/pids
+solr/data
